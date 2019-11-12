@@ -7,7 +7,7 @@ import java.util.Scanner;
  * */
 public class LeerNombreLinea {
 	
-	static Scanner sc = new Scanner(System.in);
+	public static final Scanner sc = new Scanner(System.in);
 	
 	public static void main (String[] args) {
 		
